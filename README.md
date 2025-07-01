@@ -2,4 +2,4 @@
 a test sites
 
 
-[cani](./media/cane.jpg)
+[cani](./Media/cane.jpg)
